@@ -18,8 +18,8 @@ const Event = () => {
                         alt="First slide"
                         />
                         <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>Workshop on crafting</h3>
+                        <p>Starting on 10th October</p>
                         </Carousel.Caption>
                     </div>
                 </Carousel.Item>
@@ -32,8 +32,8 @@ const Event = () => {
                         />
 
                         <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3>Competion of pottery making</h3>
+                        <p>Registration deadline is on 15th October</p>
                         </Carousel.Caption>
                     </div>
                 </Carousel.Item>
@@ -46,8 +46,8 @@ const Event = () => {
                         />
 
                         <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        <h3>Exhibition of abstract painting</h3>
+                        <p>At Drik gallery on 20th October</p>
                         </Carousel.Caption>
                     </div>
                 </Carousel.Item>
