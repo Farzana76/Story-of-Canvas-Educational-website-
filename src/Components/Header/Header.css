@@ -1,10 +1,18 @@
 .body{
-    background: url(../../img/bg.jpg) no-repeat center fixed;
+    background: url(../../img/bg.jpg) no-repeat center;
     background-size: cover;
-    height: 100vh;
     
 }
 .bg{
     background-color: rgba(0, 0, 0, 0.295);
-    height: 100vh;
+}
+.quote{
+    color: white;
+    font-size: 70px;
+    font-family: 'Lobster', cursive;
+}
+.blockquote-footer{
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
 }

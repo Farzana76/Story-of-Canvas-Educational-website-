@@ -3,7 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Home from './Components/Home/Home';
-import Service from './Components/Service/Service';
+import Services from './Components/Services/Services';
 import Gallery from './Components/Gallery/Gallery';
 import About from './Components/About/About';
 import NotFound from './Components/NotFound/NotFound';
@@ -20,8 +20,8 @@ function App() {
             <Route exact path="/">
               <Home></Home>
             </Route>
-            <Route path="/service">
-              <Service></Service>
+            <Route path="/services">
+              <Services></Services>
             </Route>
             <Route path="/gallery">
               <Gallery></Gallery>

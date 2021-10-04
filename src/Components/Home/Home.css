@@ -1,0 +1,18 @@
+.statement{
+    /* background-color: rgba(184, 135, 11, 0.322); */
+    background: url(../../img/bg2.jpg) no-repeat center;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+.bg2{
+    background-color: rgba(0, 0, 0, 0.521);
+}
+h2{
+    font-size: x-large;
+    font-weight: 300;
+}
+.quote2{
+    font-size: large;
+    font-weight: 600;
+}
