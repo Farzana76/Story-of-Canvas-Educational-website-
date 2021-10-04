@@ -1,0 +1,10 @@
+.body{
+    background: url(../../img/bg.jpg) no-repeat center fixed;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.bg{
+    background-color: rgba(0, 0, 0, 0.295);
+    height: 100vh;
+}
