@@ -25,9 +25,4 @@ h2{
     background-color: rgba(204, 88, 21, 0.623);
     border-radius: 20px;
     font-family: 'Tangerine', cursive;
-    /* animation: 5s ease-in 1s infinite reverse both running slidein; */
-    
 }
-
-/* @-webkit-keyframes slidein { from { margin-left: -2%; } to { margin-left: 100%; }  }
-        @keyframes slidein { from { margin-left: -2%; } to { margin-left: 100%; }  } */

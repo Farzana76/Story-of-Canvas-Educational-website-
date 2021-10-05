@@ -11,13 +11,9 @@ const Navbar = () => {
             <ScrollAnimation animateIn="slideInDown">
                 <div className="row pt-4 pb-5">
                 <div className="col-md-2">
-                    
-                        <div className="logo">
-                        
-                            <img className="w-100" src={logo} alt="" />
-                           
-                        </div>
-                    
+                    <div className="logo">
+                        <img className="w-100" src={logo} alt="" />
+                    </div>
                 </div>
                 <div className="col-md-10">
                     <div className="navbar-container">

@@ -16,7 +16,7 @@ const Header = () => {
                                     "Every artist was an amature"
                                 </h1>
                                 <footer className="blockquote-footer">
-                                    <cite>Ralph Waldo Emerson</cite>
+                                    <cite className="h1 fw-bold">Ralph Waldo Emerson</cite>
                                 </footer>
                             </ScrollAnimation>
                         </blockquote>
