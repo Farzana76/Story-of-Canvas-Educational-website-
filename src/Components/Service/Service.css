@@ -1,0 +1,7 @@
+.service{
+    transition: transform .3s;
+    font-family: 'Tangerine', cursive;
+}
+.service:hover{
+    transform: scale(1.1);
+}

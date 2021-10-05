@@ -2,12 +2,13 @@
     color: rgb(255, 255, 255);
     list-style: none;
     margin-right: 30px;
-    font-size: 26px;
+    font-size: 46px;
     font-weight: 500;
     padding: 5px;
     text-decoration: none;
     cursor: pointer;
     transition: transform .3s;
+    font-family: 'Tangerine', cursive;
   }
   .items:hover {
     font-weight: 600;

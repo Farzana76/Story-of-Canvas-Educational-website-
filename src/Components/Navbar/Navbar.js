@@ -2,16 +2,22 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import logo from "../../img/logo.png";
 import './Navbar.css';
+import ScrollAnimation from 'react-animate-on-scroll';
 
 const Navbar = () => {
     return (
         <div className="Navbar">
             <div className="container">
+            <ScrollAnimation animateIn="slideInDown">
                 <div className="row pt-4 pb-5">
                 <div className="col-md-2">
-                    <div className="logo">
-                        <img className="w-100" src={logo} alt="" />
-                    </div>
+                    
+                        <div className="logo">
+                        
+                            <img className="w-100" src={logo} alt="" />
+                           
+                        </div>
+                    
                 </div>
                 <div className="col-md-10">
                     <div className="navbar-container">
@@ -32,6 +38,7 @@ const Navbar = () => {
                     </div>
                 </div>
                 </div>
+                </ScrollAnimation>
             </div>
         </div>
     );

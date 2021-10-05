@@ -2,6 +2,7 @@
     background: url(../../img/bg.jpg) no-repeat center fixed;
     background-size: cover;
     overflow: hidden;
+    font-family: 'Lobster', cursive;
 }
 .bg3{
     background-color: rgba(0, 0, 0, 0.692);
