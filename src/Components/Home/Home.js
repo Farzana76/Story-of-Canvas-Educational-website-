@@ -28,7 +28,7 @@ const Home = () => {
             <ScrollAnimation animateIn="fadeIn">
                 <div className="statement mt-5">
                     <div className="bg2 p-4">
-                        <h1 className="display-2 fw-bolder">Welcome to Story of Canvas!</h1>
+                        <h1 className="display-2 fw-bolder">hhtfhgvj Welcome to Story of Canvas!</h1>
                         <h2 className="display-6 fw-bold">
                             Many people believe that artists are born that way – that talent can’t be taught – and that you are just an overseer of people that have “talent”. If you believe that you must have talent to acquire artistic skill, then what business do you have in art education. Talent is a myth and you must believe this. 
                             <blockquote className="blockquote mt-2">
